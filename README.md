@@ -1,6 +1,6 @@
-# muse-ui
+# Demonstrating my database reference push issue
 
-> A Vue.js project
+> If you go between the link routes, data added to the database gets added once to the db but twice to the local array. Using vuerouter and viexfire.
 
 ## Build Setup
 
